@@ -1,0 +1,12 @@
+.idea/
+crawl/
+libs/
+*.log
+generate-temp-*
+*.log.*
+*.iml
+*/target/
+
+
+
+
